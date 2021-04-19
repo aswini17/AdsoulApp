@@ -58,7 +58,7 @@ export default class Next extends Component {
           rel="stylesheet"
         />
         <div className="box2">
-        <Link to={{ pathname: `/Adsoul` }}>
+        <Link to={{ pathname: `/AdsoulApp` }}>
         <button class="btn1"><VscArrowLeft class="arrowIcon"/></button>
         </Link>
           <p class="title">ADSOUL</p>
