@@ -1,0 +1,115 @@
+.box2 {
+  margin-top: 0px;
+  margin-left: 0px;
+  height: 60px;
+  width: 100%;
+  background-color: #7164ff;
+  border-radius: 0%;
+}
+
+.title {
+  margin-top: 15px;
+  margin-left: 30px;
+  float: left;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: bold;
+  letter-spacing: 5px;
+  color: white;
+  font-size: 15px;
+}
+
+.appName1 {
+  font-size: 30px;
+  display: inline-block;
+  margin-top: 25px;
+  vertical-align: top;
+  margin-left: 15px;
+  font-weight: 500;
+  overflow-wrap: break-word;
+}
+
+.box3 {
+  margin-top: 30px;
+  margin-left: 25px;
+  height: 70px;
+  width: 70px;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+.subName {
+  display: inline-block;
+  vertical-align: bottom;
+  font-size: 15px;
+  color: gray;
+}
+
+.btn {
+  float: right;
+}
+
+table,
+th,
+td {
+  border: 1px solid#f9f9f9;
+  border-radius: 1px;
+  border-left: none;
+  border-right: none;
+  padding: 10px 10px 10px 20px;
+}
+
+.th1 {
+  padding: 20px 10px 20px 20px;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.leftBorder {
+  border-left: 1px solid#f9f9f9;
+  border-radius: 1px;
+}
+
+.rightBorder {
+  border-right: 1px solid#f9f9f9;
+  border-radius: 1px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 95%;
+  margin-left: 10px;
+}
+
+.alignright {
+  text-align: right;
+}
+
+.topics {
+  color: black;
+  font-size: 15px;
+  font-family: "Archivo", sans-serif;
+  font-weight: 800;
+  word-spacing: 2px;
+}
+
+.detail {
+  color: #5f5f5f;
+  font-size: 13px;
+  font-family: "Arial Nova", sans-serif;
+  font-weight: 300;
+}
+
+.btn1 {
+  float: left;
+  height: 5px;
+  margin-top: 100px;
+  padding-top: 0px !important;
+  padding-left: 30px;
+  padding-right: 0px;
+  border: 0px;
+  background-color: white;
+}
