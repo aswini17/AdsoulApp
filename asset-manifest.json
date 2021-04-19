@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/AdsoulApp/static/css/main.19aa0348.chunk.css",
+    "main.js": "/AdsoulApp/static/js/main.30955246.chunk.js",
+    "main.js.map": "/AdsoulApp/static/js/main.30955246.chunk.js.map",
+    "runtime-main.js": "/AdsoulApp/static/js/runtime-main.2e7cffa8.js",
+    "runtime-main.js.map": "/AdsoulApp/static/js/runtime-main.2e7cffa8.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/AdsoulApp/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d3d3df47.chunk.js": "/AdsoulApp/static/js/2.d3d3df47.chunk.js",
+    "static/js/2.d3d3df47.chunk.js.map": "/AdsoulApp/static/js/2.d3d3df47.chunk.js.map",
+    "static/js/3.ca8b992e.chunk.js": "/AdsoulApp/static/js/3.ca8b992e.chunk.js",
+    "static/js/3.ca8b992e.chunk.js.map": "/AdsoulApp/static/js/3.ca8b992e.chunk.js.map",
+    "index.html": "/AdsoulApp/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/AdsoulApp/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.19aa0348.chunk.css.map": "/AdsoulApp/static/css/main.19aa0348.chunk.css.map",
+    "static/js/2.d3d3df47.chunk.js.LICENSE.txt": "/AdsoulApp/static/js/2.d3d3df47.chunk.js.LICENSE.txt",
+    "static/media/asset1.6ce40959.svg": "/AdsoulApp/static/media/asset1.6ce40959.svg",
+    "static/media/icon1.75892e65.svg": "/AdsoulApp/static/media/icon1.75892e65.svg",
+    "static/media/icon2.2c236833.svg": "/AdsoulApp/static/media/icon2.2c236833.svg",
+    "static/media/icon3.0d357e94.svg": "/AdsoulApp/static/media/icon3.0d357e94.svg",
+    "static/media/icon4.39c608a8.svg": "/AdsoulApp/static/media/icon4.39c608a8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e7cffa8.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d3d3df47.chunk.js",
+    "static/css/main.19aa0348.chunk.css",
+    "static/js/main.30955246.chunk.js"
+  ]
+}
